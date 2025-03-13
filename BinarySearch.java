@@ -138,10 +138,7 @@ public class BinarySearch {
         }
         System.out.println();
     }
-
-    // ------------------------------------------------------------------------
-    // Demonstration in main()
-
+    //Main method
     public static void main(String[] args) {
         BinarySearch NameTree = new BinarySearch();
         Scanner scanner = new Scanner(System.in);
